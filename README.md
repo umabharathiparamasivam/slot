@@ -1,4 +1,4 @@
-# Ex02 Time Table
+# Ex04 Time Table
 ## Date:22/11/26
 
 
@@ -162,6 +162,7 @@ slot.html
 
 
 ## OUTPUT
+![alt text](image.png)
 
 
 ## RESULT
